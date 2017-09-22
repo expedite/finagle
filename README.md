@@ -1,3 +1,11 @@
+# Just the Ruby part of finagle-thrift
+
+To simplify pulling the gem source from Git, we moved the finagle-thrift Ruby
+gem to the top level.
+
+-----
+
+
 # Finagle
 
 [![Build status](https://travis-ci.org/twitter/finagle.svg?branch=develop)](https://travis-ci.org/twitter/finagle)

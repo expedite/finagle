@@ -1,9 +1,0 @@
-junit_tests(
-  dependencies=[
-    'finagle/finagle-mux',
-    'util/util-core',
-    'finagle/finagle-core',
-  ],
-  fatal_warnings=True,
-  sources=rglobs('*.java')
-)
