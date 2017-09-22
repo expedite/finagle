@@ -1,4 +1,4 @@
 module FinagleThrift
-  VERSION = "1.4.2"
+  VERSION = "9999.1.4.2"
 end
 
